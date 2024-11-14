@@ -1,3 +1,45 @@
+# Pixel Bloom: AI Website Agency
+
+This is a single-page website for **Pixel Bloom**, an AI-focused digital agency. 
+Built using React, Tailwind CSS, and FontAwesome,this project showcases an engaging design.
+
+## Technologies Used
+
+- **HTML**: Structure and layout of the web page.
+- **JavaScript (JS)**: Provides interactivity and dynamic functionality.
+- **React**: Frontend framework to create a modular and reusable component-based design.
+- **Tailwind CSS**: Utility-first CSS framework for rapid styling and responsive design.
+- **FontAwesome**: Icons used for enhancing the visual elements on the website.
+
+## Installation and Setup
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gitusergb/omegaorion
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## Deployment
+
+This project is deployed on Netlify. You can view the live website here:
+[Netlify Link](https://superlative-stardust-81c92f.netlify.app/)
+
+## Contribution
+
+- **Contributor**: Gauri Bidwai
+
+---
+# Thank You
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

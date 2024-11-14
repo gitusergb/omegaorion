@@ -41,10 +41,12 @@ const Footer = () => {
                 <a href="#" className="text-gray-400 hover:text-white"><i className="fab fa-behance"></i></a>
                 <a href="#" className="text-gray-400 hover:text-white"><i className="fas fa-envelope"></i></a>
             </div>
+
             {/* </div> */}
             
         </div>
     </div>
+    <img src="https://i.ibb.co/ZgjVmJK/o7.png" alt="foot" />
   
 </footer>
   )
