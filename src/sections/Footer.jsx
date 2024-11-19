@@ -2,12 +2,12 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className="bg-primary text-gray-400 py-10 mt-3">
+    <footer className="bg-almostBlack text-gray-400 py-10 mt-3">
     <div className="container mx-auto px-4 flex flex-col md:flex-row justify-between items-start">
       <div>
         <div className="flex justify-between items-center mb-5 md:mb-0">
-        <img src="https://i.ibb.co/V920xBb/UI-Logo.png" alt="icon" className="h-12 mr-6 rounded-full" /> 
-        <div className="flex flex-col md:flex-row md:space-x-20 mb-6 md:mb-0">
+        <img src="https://i.ibb.co/V920xBb/UI-Logo.png" alt="icon" className="h-16 mr-6 rounded-full" /> 
+        <div className="flex flex-col md:flex-row md:space-x-20 mb-6 md:mb-0 font-medium text-m">
             <div className="flex flex-col space-y-2">
                 <a href="#" className="hover:text-white">Explore</a>
                 <a href="#" className="hover:text-white">FAQ</a>
@@ -25,12 +25,12 @@ const Footer = () => {
     </div>
          </div>
         {/* <div className="flex flex-col justify-center items-start md:items-end"> */}
-            <div className="mb-4">
+            <div className="mb-1">
                 <h3 className="text-white mb-4">Join our monthly newsletter 🙌</h3>
                 <div className="flex mb-4">
                     <input type="email" placeholder="designer@example.com" className="bg-gray-800 text-gray-400 p-2 rounded-l-md focus:outline-none" />
                     
-                    <button className="bg-lime-500 text-black p-2 rounded-r-md ">
+                    <button className="bg-limeGreen text-black p-2 rounded-r-md ">
                         <i className="fas fa-arrow-right"></i>
                     </button>
                 </div>

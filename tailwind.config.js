@@ -13,7 +13,10 @@ module.exports = {
       // Using modern `rgb`
       primary: 'rgb(var(--color-primary))',
       secondary: 'rgb(var(--color-secondary))',
-
+      almostGray:'#858585',
+      limeGreen: '#cbff01',
+      darkGray: '#141414',
+      almostBlack: '#1b1b1b',
       // Using modern `hsl`
       primary: 'hsl(var(--color-primary))',
       secondary: 'hsl(var(--color-secondary))',

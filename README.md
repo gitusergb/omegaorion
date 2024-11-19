@@ -31,7 +31,7 @@ To run this project locally:
 ## Deployment
 
 This project is deployed on Netlify. You can view the live website here:
-[Netlify Link](https://superlative-stardust-81c92f.netlify.app/)
+[Netlify Link](https://startling-peony-ddafe2.netlify.app/)
 
 ## Contribution
 
@@ -41,7 +41,7 @@ This project is deployed on Netlify. You can view the live website here:
 # Thank You
 
 <!-- # Getting Started with Create React App
-
+https://www.figma.com/design/h9mWorazfgltgaVtOfcdfb/Assignment?node-id=0-1&t=AdZo4mzFeEAHEwTC-1
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -60,6 +60,11 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+
+https://i.ibb.co/6v0bBDB/header.png
+https://i.ibb.co/LprgZMy/user.jpg
+
 
 ### `npm run build`
 

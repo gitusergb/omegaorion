@@ -28,8 +28,9 @@ const Description = () => {
                                 <li className="flex items-center mb-4"><i className="fas fa-check-circle text-green-500 mr-2"></i> Neatly Organised layer</li>
                             </ul>
                             <h1 className="text-3xl font-bold mb-4">Format</h1>
-                            <div className="flex items-center">
-                                <i className="fab fa-figma text-2xl mr-2"></i>
+                            <div className="flex items-center ">
+                            <img src="https://i.ibb.co/j8wVZsB/figma.png" alt="figma" className='rounded-full w-6 h-6 mr-3' />
+                                <img src="https://i.ibb.co/HtNn3mh/download.png" alt="download" className='rounded-full w-6 h-6 mr-3' />
                                 <span>15.2mb</span>
                             </div>
                         </div>
